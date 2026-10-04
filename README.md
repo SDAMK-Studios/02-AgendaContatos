@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- INSIRA A LOGO DA EQUIPE / DO PROJETO ABAIXO -->
-  <img src="resources/images/logo_equipe.png" alt="Logo SDAMK Studios" width="320"/>
+  <img src="resources/images/logo_SDAMK _STUDIOS.png" alt="Logo SDAMK Studios" width="320"/>
 </p>
 
 <p align="center">
