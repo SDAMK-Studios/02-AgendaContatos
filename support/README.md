@@ -1,8 +1,3 @@
----
-
-### 2. 📄 Arquivo `AgendaContatos/support/README.md`
-
-```markdown
 # 🛠️ Materiais de Apoio e Suporte ( support/ )
 
 ## 📌 Introdução
