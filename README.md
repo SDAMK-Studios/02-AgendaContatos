@@ -1,7 +1,6 @@
 # 📇 AgendaContatos
 
 <p align="center">
-  <!-- INSIRA A LOGO DA EQUIPE / DO PROJETO ABAIXO -->
   <img src="resources/images/logo_SDAMK _STUDIOS.png" alt="Logo SDAMK Studios" width="320"/>
 </p>
 
@@ -70,33 +69,35 @@ A **AgendaContatos** é distribuída de forma integrada à aplicação principal
 A organização do repositório segue uma estrutura padronizada para separar código-fonte, recursos visuais, documentação técnica e materiais de suporte:
 
 ```text
-AgendaContatos/
-├── .gitignore                     # Arquivos e pastas ignorados pelo Git
-├── arvore-agendacontatos.txt      # Mapeamento em texto da estrutura do repositório
-├── LICENSE                        # Licença de uso do projeto (MIT License)
-├── README.md                      # Documentação principal do repositório
+```text
+PokeIf/
+├── .gitignore             # Arquivos e pastas ignorados pelo Git
+├── LICENSE                # Licença de uso do projeto (MIT License)
+├── README.md              # Documentação principal do repositório
 │
-├── database/                      # Modelagem e scripts de Banco de Dados
-│   ├── DER/                       # Diagrama Entidade-Relacionamento (Modelo Conceitual)
-│   ├── DL/                        # Diagrama Lógico (Modelo Lógico)
-│   └── scripts/                   # Scripts SQL (Criação de tabelas e inserção de dados)
+├── database/              # Modelagem e scripts de Banco de Dados
+│   ├── DER/               # Diagrama Entidade-Relacionamento (Modelo Conceitual)
+│   ├── DL/                # Diagrama Lógico (Modelo Lógico)
+│   └── scripts/           # Scripts SQL (Criação de tabelas e inserção de dados)
 │
-├── docs/                          # Documentação técnica e visual do sistema
-│   ├── diagrams/                  # Diagramas explicativos do fluxo do sistema
-│   ├── presentations/             # Apresentações e slides do projeto
-│   ├── ui-ux/                     # Protótipos e design da interface do usuário
-│   │   ├── mockups/               # Designs de alta fidelidade das telas
-│   │   ├── prototypes/            # Protótipos interativos
-│   │   └── wireframes/            # Esboços e estruturas de tela
-│   └── uml/                       # Diagramas UML (Classes, Casos de Uso, Sequência, etc.)
+├── docs/                  # Documentação técnica e visual do sistema
+│   ├── diagrams/          # Diagramas explicativos do fluxo do jogo
+│   ├── presentations/     # Apresentações e slides do projeto
+│   ├── ui-ux/             # Protótipos e design da interface do usuário
+│   │   ├── mockups/       # Designs de alta fidelidade das telas
+│   │   ├── prototypes/    # Protótipos interativos
+│   │   └── wireframes/    # Esboços e estruturas de tela
+│   └── uml/               # Diagramas UML (Classes, Casos de Uso, Sequência, etc.)
 │
-├── resources/                     # Recursos estáticos e visuais da interface
-│   └── images/                    # Imagens, telas e recursos gráficos
+├── resources/             # Recursos estáticos e visuais da interface
+│   ├── icons/             # Ícones utilizados na UI
+│   └── images/            # Imagens, logos e fotos da equipe
 │
-├── src/                           # Código-fonte da aplicação em Java
+├── src/                   # Código-fonte da aplicação em Java / JavaFX
 │
-└── support/                       # Materiais complementares e de apoio
-    ├── documents/                 # Documentos de apoio e especificações
-    ├── references/                # Referências bibliográficas e links úteis
-    ├── tutorials/                 # Guias e tutoriais de utilização e execução
-    └── videos/                    # Demonstrações em vídeo da aplicação
+└── support/               # Materiais complementares e de apoio
+    ├── documents/         # Documentos de apoio e especificações
+    ├── references/        # Referências bibliográficas e links úteis
+    ├── tutorials/         # Guias e tutoriais de utilização e execução
+    └── videos/            # Recursos audiovisuais usados no desenvolvimento
+
