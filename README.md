@@ -47,23 +47,6 @@ A **AgendaContatos** é distribuída de forma integrada à aplicação principal
 
 ---
 
-## 👥 Integrantes da Equipe & Divisão de Papéis
-
-<p align="center">
-  <sub><b>SDAMK Studios:</b> Saulo, Davi, Andresson, Matheus, Kalleo e Caio</sub>
-</p>
-
-| Integrante | Papéis e Responsabilidades no Projeto |
-| :--- | :--- |
-| **Davi** | Desenvolvedor Java, Banco de Dados, GitHub, UX |
-| **Kalleo** | Desenvolvedor Java, Banco de Dados, UX |
-| **Saulo** | Desenvolvedor Java, UX, UI |
-| **Matheus** | GitHub, UI, Relatório |
-| **Andresson** | UI, Testes |
-| **Caio** | UI |
-
----
-
 ## 📁 Estrutura do Diretório
 
 A organização do repositório segue uma estrutura padronizada para separar código-fonte, recursos visuais, documentação técnica e materiais de suporte:
